@@ -17,5 +17,3 @@ def contact(request):
 
 
 
-def sample(request):
-    return render(request,"core/sample.html")
